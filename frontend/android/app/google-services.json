@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617288111150",
+    "project_id": "nowdrop-5061e",
+    "storage_bucket": "nowdrop-5061e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617288111150:android:9feec3bba6d7000ac67bbf",
+        "android_client_info": {
+          "package_name": "com.jonggeon.nowdrop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzqxIUdab9fOQnbd0y8oxTC4ERKsWNaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
