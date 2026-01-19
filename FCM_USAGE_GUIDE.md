@@ -108,7 +108,7 @@ cd now_drop
 curl -X POST http://localhost:8080/api/fcm/test \
   -H "Content-Type: application/json" \
   -d '{
-    "token": "여기에_앱에서_복사한_FCM_토큰_붙여넣기",
+    "token": "cEcvEFDhQ6Of_mAQ1ZDpnF:APA91bHW5dJ7Ml662sGLinAw4og_8kXRPVLeZcLfiCU65RV5yMd2myIpnScxw6dSebD6MI3962byPFc5hSiBYJPE6NkW3rphgU1OHhlq3s2IJaQjYJwiMRE",
     "title": "테스트 알림",
     "body": "FCM 연동이 성공했습니다! 🎉"
   }'
