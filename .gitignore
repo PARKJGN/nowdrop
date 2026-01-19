@@ -110,3 +110,6 @@ android/app/src/debug/
 # Amplify
 amplify/
 .amplifyrc
+
+**/firebase-service-account.json
+SETUP_GUIDE.md
